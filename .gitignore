@@ -4,3 +4,4 @@
 MANIFEST
 .python-version
 /durationpy.egg-info
+.pybuild/

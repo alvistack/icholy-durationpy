@@ -1,0 +1,5 @@
+python-durationpy source: file-without-copyright-information
+python-durationpy source: no-debian-changes
+python-durationpy source: source-contains-prebuilt-windows-binary
+python-durationpy source: source-is-missing
+python-durationpy source: source-package-encodes-python-version
